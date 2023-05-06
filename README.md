@@ -1,0 +1,2 @@
+# Image-preprocessing-for-Computer-Vision
+Here, we are performing Image preprocessing operations such as Filtering of image, Fourier transform (Orthogonal and Discrete), Upscaling and downscaling, RGB to BGR conversion, point processing, Gamma transform using Power law, stereo analysis, Sobel Edge detection, Canny edge detection, Feature Matching using SIFT, etc for processing to Computer Vision operations.
